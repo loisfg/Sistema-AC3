@@ -112,7 +112,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.mycompany.KeepCodeAPI</mainClass>
+                            <mainClass>com.mycompany.projetinho.KeepCodeAPI</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
