@@ -1,0 +1,12 @@
+ProcessoMaq\IdeMaq.class
+ProcessosIDE\ProcessIDE.class
+AppKeepCode\KeepCodeAPI.class
+Empresa\CompanyData.class
+jdbc\Conexao.class
+ProcessosIDE\ProcessDatas.class
+ProcessoMaq\MaquinaDatas.class
+Usuario\UsuarioDatas.class
+ProcessoMaq\GetAllProcess.class
+ProcessosIDE\ProcessIDE$1.class
+ProcessoMaq\ProcessDatas.class
+jdbc\ConexaoSql.class
