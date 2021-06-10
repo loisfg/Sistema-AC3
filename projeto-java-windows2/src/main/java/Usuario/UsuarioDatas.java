@@ -17,7 +17,7 @@ public class UsuarioDatas {
         this.id_cpf = 36014447805L;
         this.us_login = "luis";
         this.us_equipe = "valemobi";
-        this.us_senha = "";
+        this.us_senha = "Teste123";
         this.us_is_adm = false;
         this.fk_id_empresa = 1;
     }
